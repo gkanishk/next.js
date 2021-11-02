@@ -17,5 +17,5 @@ Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packag
 ```bash
 npx create-next-app --example custom-server-express custom-server-express-app
 # or
-yarn create next-app --example custom-server-express custom-server-express-app
+yarn create-next-app --example custom-server-express custom-server-express-app
 ```
